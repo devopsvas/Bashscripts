@@ -1,6 +1,6 @@
 #! /bin/bash
 # Written by Vasanth.T.M
-# Copy write 2010
+# Copyright  2021
 
 
 CKUPDATE=$(date +%d-%m-%Y)
